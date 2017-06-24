@@ -1,0 +1,9 @@
+.collection-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.vote-box {
+    display: flex;
+    align-items: center;
+}
